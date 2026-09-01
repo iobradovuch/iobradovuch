@@ -86,7 +86,7 @@ Coursework and personal projects applying unit, integration, and architecture te
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iobradovuch&show_icons=true&theme=default&hide_border=true" alt="Ivan's GitHub stats" />
+<img src="https://github-readme-stats-eight-alpha.vercel.app/api?username=iobradovuch&show_icons=true&theme=default&hide_border=true" alt="Ivan's GitHub stats" />
 </p>
 
 ---
