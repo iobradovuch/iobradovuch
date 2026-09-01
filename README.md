@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-I'm a Computer Science graduate (2026) specializing in **Intelligent Data Analysis**, with a full-stack engineering foundation and a growing focus on applied machine learning. I like building complete products — backend services, frontend UI, and the ML layer that powers them — rather than working on just one part of the stack.
+I'm a Computer Science graduate (2026) specializing in **Intelligent Data Analysis**, with a full-stack engineering foundation and a growing focus on applied machine learning. I like building complete products - backend services, frontend UI, and the ML layer that powers them - rather than working on just one part of the stack.
 
 My core project work centers on **ML-driven recommendation systems** and **predictive modeling**, implemented as full multi-service architectures (Java/Spring backend, TypeScript/React frontend, Python ML service, containerized with Docker). I also have hands-on experience with software testing and QA practices (unit, integration, and architecture testing with JUnit/Maven). Outside of pure engineering, I run digital marketing and content operations for a university department and an IT academy, which gives me a product-and-growth mindset alongside the technical one.
 
@@ -22,16 +22,13 @@ My core project work centers on **ML-driven recommendation systems** and **predi
 ### 💼 Experience
 
 **Freelance Full-Stack Developer**
-Independent web development projects — building and shipping full-stack applications for clients, from React/TypeScript frontends to Java backend services.
+Independent web development projects - building and shipping full-stack applications for clients, from React/TypeScript frontends to Java backend services.
 
-**Loyalty Platform Administrator — ProfBonus**
+**Loyalty Platform Administrator - ProfBonus**
 Administer a loyalty platform for a university workplace organization: manage platform content, lead partner onboarding (7+ partner businesses onboarded), and designed the UI for the platform's popup modal.
 
-**SMM & Content Creator — Department of Computer Sciences**
+**SMM & Content Creator - Department of Computer Sciences**
 Own social media strategy and content production for the department's Instagram (@kkn_iftkn): campaign content, event coverage, and AI-generated promotional video projects.
-
-**SMM & Content Creator — IT STEP Chernivtsi Academy**
-Built an autumn enrollment marketing strategy, ran SMM audits, and set up Google Ads asset libraries. Currently exploring marketing automation (n8n) and developing AI-tools curriculum content.
 
 **University Governance**
 Served on the university's Academic Council and the ННІФТКН institute council.
@@ -40,11 +37,8 @@ Served on the university's Academic Council and the ННІФТКН institute cou
 
 ### 🎓 Featured Academic Work
 
-**Bachelor's Thesis — Gamified Student Activity Platform (CS-Coin)**
+**Bachelor's Thesis - Gamified Student Activity Platform (CS-Coin)**
 A hybrid adaptive ML recommendation system built as a multi-service application: **Java/Spring Boot backend, TypeScript/React frontend, and a dedicated Python ML service**, containerized with **Docker**. Delivered full ERDs, wireframes, a technical specification, and a Moodle REST API integration plan for token distribution. Successfully defended with strong expert reviews.
-
-**Master's Thesis Concept — Precision Agriculture Yield Prediction**
-Designing an **ensemble machine learning** system for crop yield prediction, integrating satellite and environmental data (Sentinel-2, MODIS, NASA POWER, SoilGrids) with a full-stack Java/Python/React architecture.
 
 **Software Quality & Testing**
 Coursework and personal projects applying unit, integration, and architecture testing practices to Java/Maven applications.
@@ -92,11 +86,11 @@ Coursework and personal projects applying unit, integration, and architecture te
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iobradovuch&show_icons=true&theme=default&hide_border=true" alt="Ivan's GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iobradovuch&show_icons=true&theme=default&hide_border=true" alt="Ivan's GitHub stats" />
 </p>
 
 ---
 
 <p align="center">
-<i>Open to full-stack and ML-focused opportunities — feel free to connect.</i>
+<i>Open to full-stack and ML-focused opportunities - feel free to connect.</i>
 </p>
