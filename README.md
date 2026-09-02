@@ -17,6 +17,8 @@ I'm a Computer Science graduate (2026) specializing in **Intelligent Data Analys
 
 My core project work centers on **ML-driven recommendation systems** and **predictive modeling**, implemented as full multi-service architectures (Java/Spring backend, TypeScript/React frontend, Python ML service, containerized with Docker). I also have hands-on experience with software testing and QA practices (unit, integration, and architecture testing with JUnit/Maven). Outside of pure engineering, I run digital marketing and content operations for a university department and an IT academy, which gives me a product-and-growth mindset alongside the technical one.
 
+🔭 Currently working on the CS-Coin ML recommendation service and prototyping the precision-agriculture yield prediction model.
+
 ---
 
 ### 💼 Experience
